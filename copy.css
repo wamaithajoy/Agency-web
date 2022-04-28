@@ -1,0 +1,40 @@
+<section id="Home">
+        
+<h4>Abu Agency</h4>
+
+<div class="navbar">
+
+<div class="Kudush">
+
+<!-- <div class="Photo1"> -->
+    <!-- <img src="/new-logo-white-removebg-preview.png"> -->
+    <!-- <h4>Abu Agency</h4> -->
+
+    <nav>
+    <a href="#Home">Home</a>
+    <a href="#How we work">How we work</a>
+    <a href="#Services">Services</a>
+    <a href="#Contact">Contact</a>
+</nav>
+<!-- </div> -->
+
+   
+
+</div>
+<div class="Button">
+<button class="button">Lets talk</button>
+
+</div>
+</div>
+
+
+
+
+
+background-color: rgb(90, 214, 193);  
+border-radius: 10%;
+width: 9%;
+padding: 9px 12px;
+margin-bottom: -4%;
+
+margin-left: 5%;
