@@ -1,6 +1,4 @@
-body{
-  background-color: rgb(241,234,234);  
-}
+ 
 #Home{
     background-color: rgb(255,255,255);
     margin-left: 1%;
@@ -36,18 +34,25 @@ nav a{
     background-color: #ddd;
     color: black;
 }
-.Button button{
+.Button1 button{
     background-color: rgb(78, 78, 241);
     margin-top: -20%;
+    border-radius: 35px;
+    width: 65px;
+    height: 5vh;
     
 }
-ma
+
 .Button{
  background-color: rgb(77, 223, 223);
-  
- 
-  
+ border-radius: 30px;
+ margin-left: 5%;
+ width: 12%;
+ height: 8vh;   
+   
 }
+
+
 .Button3 Button{
     background-color: rgb(231, 231, 243);
     margin-left: 15%;
@@ -68,7 +73,7 @@ ma
 .photo1 img{
    margin-top: -100%;
    margin-left: 50%;
-   margin-bottom: 7%;
+   margin-bottom: 10%;
 }
 .photo2 img{
   margin-left: 50%;
@@ -199,8 +204,89 @@ text-align: center;
 .project{
     display: flex;
    margin-left: 10%;
+   margin-top: -10%;
 }
 .serve{
     padding: 15%;
 }
- 
+ .serve h1{
+     font-size: 240%;
+ }
+
+ .sign1{
+    margin-left: 25%;
+ }
+ .text4{
+  font-size: 180%;   
+ }
+ .par1 p{
+     font-size: 130%;
+ }
+.Hold{
+ height: 9vh; 
+ width: 30vw; 
+ background-color: rgb(8, 75, 161);
+ border-radius: 24px; 
+ border: 1px rgb(8, 75, 161)  ;
+}
+.box{
+  margin-left: 10%;  
+}
+.Button4{
+    height: 9vh; 
+    width: 16vw;
+    background-color: rgb(42, 240, 240);
+    border-radius:24px ; 
+    border: 1px  rgb(42, 240, 240) ;
+    margin-left: -25%;   
+}
+.cont{
+  margin-left: 11%;
+  /* margin-top: -4%;   */
+}
+.cont h5{
+  font-size:90%; 
+  margin-top: -30%;
+  margin-bottom: 0%; 
+}
+.cont h2{
+  font-size: 220%;
+  margin-top: 3%;
+
+}
+.picture1{
+    margin-left: 47%;
+}
+.picture2{
+   margin-left: 50%;
+   height: 20%;
+   margin-top: -54%;
+  
+}
+.Button5{
+  background-color: rgb(31, 230, 163);
+ height: 7vh;
+ border-radius: 20px;
+margin-bottom: -40%;
+margin-left: 15%;
+margin-top: 2%;
+
+}
+ .fullname{
+ padding: 1%;
+ width: 30%;    
+ }
+ .message{
+  padding:1%; 
+  width:30% ;
+ height: 9vh;
+ }
+ #Contact{
+   background-color: rgb(249, 253, 253); 
+  
+
+ }
+ #Signup{
+ background-color:rgb(255,255,255);
+ margin-top: -3%;
+ }
